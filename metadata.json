@@ -1,0 +1,6 @@
+{
+  "name": "Pharma Connect",
+  "description": "Smart Pharmacy Network - Find nearby medicines, compare live prices, upload prescriptions, sync ERP inventories (Marg, RetailGraph, Tally), and manage orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
